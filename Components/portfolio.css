@@ -1,0 +1,17 @@
+#cards{
+    padding-top: 70px;
+    background-color: #34495E;
+}
+
+#main{
+    padding-top: 70px;
+}
+
+.pname {
+    color: #db7093;
+    /* text-decoration: underline solid white; */
+}
+
+#bg-light{
+    background-color: #34495E;
+}

@@ -1,0 +1,73 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    text-align: center;
+}
+
+
+.resume {
+    background-color:#34495E;
+    color: #db7093;
+    border-radius: 20px;
+    width: 70rem;
+    border: 1px solid #db7093;
+}
+
+
+
+.resume-title {
+    font-size: 80px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    text-align: center;
+    text-decoration: underline solid white;
+    color: #db7093;
+}
+
+.experience {
+    padding-bottom: 60px;
+}
+
+.Rtext {
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: white;
+}
+
+ul li {
+    list-style-type: none;
+    margin-right: 23px;
+    color:white;
+    font-size: 20px;
+}
+
+.skillpara {
+    padding-bottom: 70px;
+    color: white;
+    font-size: 20px;  
+}
+
+
+span {
+    color: #db7093;
+    font-size: 30px;
+}
+
+
+.title {
+    font-size: 40px;
+    text-decoration: underline solid white;
+}
+
+.extitle {
+    font-size: 25px;
+    padding-top: 20px;
+    text-decoration: dotted underline;
+}
+
+.time {
+    color: white;
+}

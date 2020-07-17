@@ -1,0 +1,38 @@
+#aboutme {
+    text-align: center;
+    /* padding-top: 50px; */
+}
+
+.namecontainer {
+    margin: 0px 60px;
+}
+
+.name {
+    color: white;
+    font-size: 120px;
+    text-align: center;
+    background-color: #34495E;
+    border: double black 8px;
+    border-radius: 20px;
+}
+
+.picture {
+    border: #34495E solid 3px;
+    border-radius: 20px;
+}
+
+.abtitle {
+    font-size: 30px;
+}
+
+.abpara {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+    line-height: 1.5;
+    margin-bottom: 60px;
+    background: #34495E;
+    border: black double 8px;
+    border-radius: 20px;
+}
